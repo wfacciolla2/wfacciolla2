@@ -1,5 +1,5 @@
 <img src="images/1.png" width="260" alt="Logo" align="right" /> Wellington Facciolla Lopes :smile:
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="55">
+
 =====
 
 <p>
@@ -53,7 +53,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </p>
 
-<img src="images/2.png" width="180" alt="Logo" align="right" />
 
 ## Learning :smirk:
 
